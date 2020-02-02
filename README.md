@@ -5,6 +5,6 @@
 
 ## Grades
 
-| Teste 1 | Teste 2 | Avaliação Distribuída| Exame | NotaFinal
-|---|---|---|---|---
-| 18.67 | 13.67 | 16.17 | 15.97 | 16
+| Teste 1 | Teste 2 | Teste 3 | NotaFinal
+|---|---|---|---
+| 16.9 | 15.6 | 14.5 | 16 
